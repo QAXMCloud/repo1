@@ -12,6 +12,10 @@
     },
     "postActions": {
         "actions":{
+              "reindex": {
+            "indexNames": ["sitecore_master_index",
+            "sitecore_core_index"]
+          },
           "warmUpCm": {
             "urls": [
               "/sitecore/shell",

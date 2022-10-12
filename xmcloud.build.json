@@ -25,9 +25,6 @@
           },
           "populateSchema": {
             "indexNames": []
-          },
-          "reindex": {
-            "indexNames": []
           }
         }
     }

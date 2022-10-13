@@ -25,7 +25,7 @@
             ]
           },
           "populateSchema": {
-            "indexNames": ["abc"]
+            "indexNames": []
           }
         }
     }
